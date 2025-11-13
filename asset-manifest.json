@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/aquascience/static/js/main.1c687cbb.js",
+    "static/js/104.3c73e62d.js": "/aquascience/static/js/104.3c73e62d.js",
+    "static/media/img1Carrossel.png": "/aquascience/static/media/img1Carrossel.eb4e732ddeba3802bc0f.png",
+    "static/media/img2Carrossel.png": "/aquascience/static/media/img2Carrossel.d42b4970c1e43f116008.png",
+    "static/media/img3Carrossel.png": "/aquascience/static/media/img3Carrossel.1bc4d6680d90e6f68e74.png",
+    "static/media/MaterialCommunityIcons.ttf": "/aquascience/static/media/MaterialCommunityIcons.1fcc36272ea3e53d0031.ttf",
+    "static/media/logoHidroCascavel.png": "/aquascience/static/media/logoHidroCascavel.8d70a35b17d4f92cf3d1.png",
+    "static/media/Ionicons.ttf": "/aquascience/static/media/Ionicons.40518f95b2e2a69c5c07.ttf",
+    "static/media/MaterialIcons.ttf": "/aquascience/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf",
+    "static/media/imgMembrosGrupo3.png": "/aquascience/static/media/imgMembrosGrupo3.c6fe603f7f25daab6e91.png",
+    "static/media/imgMembrosGrupo2.png": "/aquascience/static/media/imgMembrosGrupo2.321689648a95bb03e172.png",
+    "static/media/imgMembrosGrupo.png": "/aquascience/static/media/imgMembrosGrupo.8c490c4caeb6135a7007.png",
+    "static/media/ondaTopo.png": "/aquascience/static/media/ondaTopo.05ef2e7faaa98cf51066.png",
+    "static/media/ondaBaixo.png": "/aquascience/static/media/ondaBaixo.7174d902684f7e3ca00b.png",
+    "favicon.ico": "/aquascience/favicon.ico",
+    "static/media/iconeMundo.png": "/aquascience/static/media/iconeMundo.680a365ad8af741048dc.png",
+    "index.html": "/aquascience/index.html",
+    "static/media/iconeQuimica.png": "/aquascience/static/media/iconeQuimica.ae78ae29da2228f138ea.png",
+    "static/media/WhatsApp.png": "/aquascience/static/media/WhatsApp.de89302ebeda0f60ac8c.png",
+    "static/media/Instagram.png": "/aquascience/static/media/Instagram.b260212b9cff722212ad.png",
+    "static/media/iconeIfpr2.png": "/aquascience/static/media/iconeIfpr2.20007ab08243cdebe33b.png",
+    "static/media/iconePessoa.png": "/aquascience/static/media/iconePessoa.79881bf3021168926f00.png",
+    "static/media/iconeCalendario.png": "/aquascience/static/media/iconeCalendario.46a00eacb1bc9c4a86b3.png",
+    "favicon-32.png": "/aquascience/favicon-32.png",
+    "favicon-16.png": "/aquascience/favicon-16.png",
+    "serve.json": "/aquascience/serve.json",
+    "manifest.json": "/aquascience/manifest.json",
+    "main.1c687cbb.js.map": "/aquascience/static/js/main.1c687cbb.js.map",
+    "104.3c73e62d.js.map": "/aquascience/static/js/104.3c73e62d.js.map"
+  },
+  "entrypoints": [
+    "static/js/104.3c73e62d.js",
+    "static/js/main.1c687cbb.js"
+  ]
+}
