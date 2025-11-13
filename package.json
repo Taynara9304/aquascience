@@ -2,11 +2,12 @@
   "name": "app",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://taynara9304.github.io/HidroCascavel/",
+  "homepage": "https://taynara9304.github.io/aquascience/",
   "scripts": {
     "predeploy": "expo export",
     "deploy": "gh-pages -d dist"
   },
+
   "dependencies": {
     "@expo/metro-runtime": "~6.1.1",
     "@expo/ngrok": "^4.1.3",
